@@ -1,0 +1,54 @@
+@charset "UTF-8";
+header{
+	display: flex;
+	background-color: gold;
+}
+.pokemon{
+	margin-left: 10%;
+	width: 200px;
+	height: 200px;
+	border-image: 1px solid red;
+	
+}
+h1{
+	font-size: 4em;
+	text-align: center;
+	margin-left: 10%;
+	text-decoration: underline solid red;
+}
+nav{
+	background-color: gold;
+}
+a{
+	display: block;
+	width:20%;
+	border: solid 2px blue;
+	background-color: skyblue;;
+	text-align: center;
+	text-decoration: none;
+	color:black;
+}
+.izquierda{
+	margin-left: 10%;
+}
+.derecha{
+	margin-left: 70%;
+}
+.piedepagina{
+	background-color: grey;
+}
+h3{
+	color: green;
+	text-decoration: underline;
+}
+.cuadrados{
+	margin-left: 10%;
+	width: 200px;
+	height: 200px;
+}
+main{
+	background-color: bisque;
+}
+video{
+	margin-left: 35%;
+}
